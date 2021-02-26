@@ -1,0 +1,39 @@
+Bonjour tout lr monde
+o- La taille des fichiers ne peut pas dépasser 2 Mo.
+- Les extensions autorisées sont les suivantes : jpeg. jpeg. pdf. png (le format PDF est fortement recommandé)
+- Cliquez sur le bouton "Confirmer" après avoir ajouté ou supprimé une pièce justificative puis cliquez sur "Quitter" pour vous déconnecter
+- Cliquez sur les rubriques <Aide> pour trouver toutes les consignes et les informations utiles (compresser, convertir ou fusionner des fichiers...)
+- Légende :		Visualiser	
+	Ajouter / Remplacer	
+	Supprimer	
+	Dépôt / Suppression à confirmer
+
+
+Aide
+PIECES JUSTIFICATIVES ATTENDUES AU FORMAT NUMERIQUE
+Libellé	Etat fichier	Visa administratif	Date de validation	Date de transmission	Date d'expiration	Date de refus	Commentaire
+1	 		 	Attestation d'acquittement ou d'exonération de la contribution de vie étudiante et de campus (CVEC) à télécharger sur le site internet du Crous à l'adresse suivante : http://cvec.etudiant.gouv.fr	
+Transmise	
+12/10/2020 
+11:31		
+
+2	 		 	Attestation d'admission ou Accord préalable d'inscription Campus France (uniquement si vous êtes nouveau à Paris 8 ou si vous êtes déjà étudiant à Paris 8 et que vous passez de L3 en M1 ou que vous changez de cursus. Joindre les deux attestations si vous vous inscrivez en double cursus)	
+Transmise	
+12/10/2020 
+11:31		
+
+3	 		 	Diplôme ayant permis l'admission ou Attestation de réussite si le diplôme n'a pas encore été délivré (uniquement si vous êtes nouveau à Paris 8 ou si vous êtes déjà étudiant à Paris 8 et que vous passez de L3 en M1 ou que vous changez de cursus)	
+Transmise	
+12/10/2020 
+11:31		
+
+4		
+
+Attestation de validation des acquis émise par la formation qui vous accepte si vous avez été admis par équivalence (si vous ne l'avez pas reçue, le service de la scolarité se chargera de le récupérer et de le scanner à votre place)	
+En attente	
+
+
+
+5		
+
+Attestation de participation à un entretien pédagogique (si vous vous réinscrivez une 3ème année ou plus dans le même niveau d'études sans avoir acquis nnoooo Le mai(evileuedddd

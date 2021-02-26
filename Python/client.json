@@ -1,0 +1,22 @@
+[
+    {
+        "Codeclt":"A",
+        "Name":"John",
+        "Adress":"15 rue marie"
+    },
+    {
+        "Codeclt": "B",
+        "Name": "Pierre",
+        "Adress": "7 rue sentier"
+    },
+    {
+        "Codeclt": "C",
+        "Name": "Dupont",
+        "Adress": "32 rue Michelet"
+    },
+    {
+        "Codeclt": "D",
+        "Name": "Malik",
+        "Adress": "15 Boulevard"
+    }
+]
