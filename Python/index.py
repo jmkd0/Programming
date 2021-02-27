@@ -51,7 +51,7 @@ for column in ["Codeclt","Design"]:
 
 print(productdict)
 for column in ["Codeclt","Design"]:
-    productdict[column] = label_encoder.inverse_transform(productdict[column])
+    productdict["Design"] = label_encoder.inverse_transform(productdict[column])
 #productdict["Design"] = label_encoder.inverse_transform(productdict["Design"])
 print(productdict)
 #Get row in pands where
