@@ -9,10 +9,6 @@ public class Main {
       System.out.println("Le calcule d'opération donne: "+value);
     }else{
       System.out.println("Error");
-    }
-    
-    
+    } 
   }
 }
-/* 
- */
