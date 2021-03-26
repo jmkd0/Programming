@@ -98,20 +98,11 @@ class DecisionTree:
     #Score of prediction
     def score(self, y_true, y_predict):
         return np.sum(y_true == y_predict) / len(y_true)
+    
+    def drow_graph(self, DT, features, labels):
+        fig = plt.figure(figsize=(25,20))
+        _ = tree.plot_tree(DT, feature_names=features,  
+                           class_names=labels.astype(str),
+                           filled=True)
+        fig.show()
 
-
-from sklearn import datasets
-from sklearn.model_selection import train_test_split
-dat = datasets.load_breast_cancer()
-X = dat.data
-y = dat.target
-X_train, X_test, y_train, y_test = train_test_split(X,y, train_size=0.8, test_size=0.2, random_state=1234)
-DT = DecisionTree(max_depth=3)
-DT.fit(X_train, y_train)
-y_pred = DT.predict(X_test)
-
-score = DT.score(y_test, y_pred)
-
-print("The accuracy is: ", score)
-
-#meet.google.com/zyv-mnhu-qay
