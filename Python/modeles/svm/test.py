@@ -5,10 +5,7 @@ from modele import SVM
 import numpy as np
 import pandas as pd
 
-
-
 X, y = load_data(0)
-
 
 #Kernel
 modele = SVM(kernel='linear', decision='ova')
