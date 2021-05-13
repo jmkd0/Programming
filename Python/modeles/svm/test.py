@@ -1,6 +1,6 @@
 import sys
-sys.path.append('../..')
-from modeles.datasets import load_data
+sys.path.append('/home/komlan/Programming/Python/modeles/')
+from datasets import load_data
 from modele import SVM
 import numpy as np
 import pandas as pd
