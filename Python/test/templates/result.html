@@ -1,0 +1,28 @@
+<html>
+   <body>
+       <h1>View here the result</h1>
+      <table>
+         {% for key, value in response.items() %}
+            <tr>
+               <th> {{ key }} </th>
+               <td> {{ value }} </td>
+            </tr>
+         {% endfor %}
+      </table>
+      <table>
+           <tr>
+              <th> Name </th>
+              <td> {{ response.Name }} </td>
+           </tr>
+     </table>
+     <script>
+        let json_objet = JSON.parse({{json_objet|tojson}});
+        let json_rows = JSON.parse({{json_rows|tojson}});
+        let json_columns = JSON.parse({{json_columns|tojson}});
+      
+        console.log(json_objet);
+        console.log(json_rows);
+        console.log(json_columns);
+     </script>
+   </body>
+</html>
